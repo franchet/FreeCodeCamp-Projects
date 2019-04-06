@@ -1,0 +1,105 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+        background-color: #97BAC0;
+    }
+    
+    .container {
+        max-width: 75%;
+    }
+    
+    img {
+        align-items: center;
+    }
+    
+    title {
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    
+    span {
+        text-shadow: 0 0 3px #0B249C;
+    }
+    
+    strong {
+        font-family: 'Sigmar One', cursive;
+        font-weight: 300;
+    }
+    
+    li {
+        font-family: 'Bentham', serif;
+        font-size: 20px;
+        margin-bottom: 6px;
+    }
+    
+    .text-caption {
+        font-family: 'Caveat Brush', cursive;
+        font-size: 25px;
+        text-align: center;
+    }
+    
+    .sub-text {
+        font-family: 'Bevan', cursive;
+        text-align: center;
+    }
+    
+    .header {
+        text-align: center;
+        margin-top: 30px;
+    }
+    
+    .info {
+        text-align: center;
+        list-style-type: none;
+    }
+    
+    .add-info {
+        text-align: center;
+    }
+    
+    .red-text {
+        color: rgb(231, 10, 10);
+    }
+    
+    .green-text {
+        color: rgb(6, 148, 6);
+    }
+    
+    .blue-text {
+        color: rgb(17, 81, 177);
+        text-shadow: 0 0 3px #FF0000;
+    }
+    
+    .yellow-text {
+        color: rgb(243, 176, 8);
+    }
+    
+    .add-info {
+        font-family: 'Caveat Brush', cursive;
+        font-size: 25px;
+    }
+    
+    #main-text {
+        font-family: 'Sigmar One', cursive;
+        font-weight: 600;
+        text-align: center;
+        font-size: 120px;
+    }
+    
+    #img-div {
+        opacity: 0.85;
+        align-items: center;
+    }
+    
+    #img-footer {
+        padding-bottom: 30px;
+    }
+    
+    #timeline {
+        font-family: 'Sigmar One', cursive;
+        font-size: 40px;
+    }
